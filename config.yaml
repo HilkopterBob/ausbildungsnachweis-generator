@@ -1,0 +1,24 @@
+name: Nick von Podewils
+start_date: '2022-09-01'
+end_date: '2025-08-31'
+default_hours: 8
+tasks_year_1:
+- LJ 1 T1
+- LJ 1 T2
+- LJ 1 T3
+tasks_year_2:
+- LJ 2 T1
+- LJ 2 T2
+- LJ 2 T3
+tasks_year_3:
+- LJ 3 T1
+- LJ 3 T2
+- LJ 3 T3
+special_days:
+- date: '2022-09-02'
+  label: Krank
+- start: '2022-09-03'
+  end: '2022-09-15'
+  label: Schule
+- start: '2025-03-10'
+  label: Krankheit
