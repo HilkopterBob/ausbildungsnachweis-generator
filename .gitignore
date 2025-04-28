@@ -4,3 +4,6 @@ include/
 lib/
 lib64/
 
+lib64
+preset-gen.py
+pyvenv.cfg

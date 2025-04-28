@@ -1,6 +1,7 @@
 name: Nick von Podewils
 start_date: '2022-09-01'
 end_date: '2025-08-31'
+template: 'preset3.pdf'
 default_hours: 8
 tasks_year_1:
 - LJ 1 T1
@@ -22,3 +23,5 @@ special_days:
   label: Schule
 - start: '2025-03-10'
   label: Krankheit
+
+- date
